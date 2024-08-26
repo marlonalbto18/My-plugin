@@ -9,7 +9,7 @@
         }
     ],
     "color": "#E54B4B",
-    "rawUrl": "https://raw.githubusercontent.com/domi-btnr/Enmity-Stuff/main/dist/GlobalBadges.js",
+    "rawUrl": "https://raw.githubusercontent.com/marlonalbto18/My-plugin/main/pluginInfo.js
     "sourceUrl": "https://github.com/domi-btnr/Enmity-Stuff/tree/main/GlobalBadges",
     "changelog": [
         "Fixed Badges not appearing on Profiles",
